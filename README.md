@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wIonut
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PUG and SCSS
+- 💞️ I’m available for collaborations and projects
+- 📫 My Discord: Yonut#4185
