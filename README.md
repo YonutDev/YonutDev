@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @YonutDev
-- 👀 I’m interested in Web & PAWN Development
-- 🌱 I’m currently learning PUG and SCSS
-- 💞️ I’m available for collaborations and projects
-- 📫 My Discord: Yonut#4185
+- 👋 Hi, I’m Yonut!
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning React.js.
+- 💞️ I’m available for collaborations and projects.
+- 📫 <a href="https://yonutdev.xyz">My Website</a>
