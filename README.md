@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yonut!
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.js.
 - 💞️ I’m available for collaborations and projects.
 - 📫 <a href="https://yonutdev.xyz">My Website</a>
